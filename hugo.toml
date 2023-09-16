@@ -1,0 +1,56 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'ds-econ'
+[module]
+  [[module.imports]]
+    path = "paper"
+
+[markup.goldmark.renderer]
+unsafe= true
+
+theme = "hugo-paper"
+title = "Paper"
+
+[params]
+  color = 'linen'
+  math = true                               # enable KaTeX math typesetting globally
+  name = '👨🏼‍💻 Finn-Ole Höner'
+  avatar = 'finn@ds-econ.com' 
+  bio = 'I love reading books about life, working out, and drinking coffee on a sunny day. Before moving to Amsterdam, I lived in Tübingen, Texas, and on a Scottish Farm.'
+  cv = ' I am an MPhil student in Business Data Science'
+  twitter = 'finn_hoener'            
+  github = 'finnoh'                 
+  linkedin = 'finn-hoener'     
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
