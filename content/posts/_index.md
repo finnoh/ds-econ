@@ -4,4 +4,5 @@ title: "Posts"
 author: "Finn-Ole Höner"
 tags: ["index"]
 eval: false
+freeze: true
 ---
