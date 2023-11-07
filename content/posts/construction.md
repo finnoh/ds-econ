@@ -1,0 +1,10 @@
+---
+title: "This Website is under construction 🚧"
+slug: construction
+date: today
+---
+
+This website is a work in progress right now. In the meantime, feel free to visit me on Substack:
+
+<iframe src="https://dsecon.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no">
+</iframe>
