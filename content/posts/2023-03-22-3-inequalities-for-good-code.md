@@ -2,6 +2,7 @@
 title: 3 inequalities for good code 👌
 slug: 3-inequalities-for-good-code
 date: 2023-03-22
+draft: true
 excerpt: Guidelines for good code, that often hold true.
 ---
 

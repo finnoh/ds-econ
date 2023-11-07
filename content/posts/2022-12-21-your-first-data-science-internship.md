@@ -2,6 +2,7 @@
 title: "Your first data science internship: 5 things I had to learn twice"
 slug: your-first-data-science-internship
 date: 2022-12-21
+draft: true
 excerpt: "So far, I have worked as an intern in data science twice. Once at the German Federal Bank, and the other time at Lidl Interning in data science is valuable and helps you learn programming fast."
 ---
 

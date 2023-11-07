@@ -2,6 +2,7 @@
 title: "Either one or everyone: Two paths for accountability in data science 👨🏼‍⚖️"
 slug: accountable
 date: 2022-12-07
+draft: true
 excerpt: "Professionals need to hold each other accountable. Especially data scientists. If there is nobody who can judge you work, what keeps you from cheating? There are two paths you can take. A hard one and a scary one."
 ---
 

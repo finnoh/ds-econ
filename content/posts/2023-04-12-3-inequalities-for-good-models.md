@@ -2,6 +2,7 @@
 title: 3 inequalities for good models 👌
 slug: 3-inequalities-for-good-models
 date: 2023-04-12
+draft: true
 excerpt: Guidelines for good models, that often hold true.
 ---
 

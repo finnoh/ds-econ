@@ -2,6 +2,7 @@
 title: Ask better questions
 slug: ask-better-questions
 date: 2023-03-29
+draft: true
 excerpt: If you are working on the wrong problem, the quality of even the best neural networks, probabilistic and gradient boosted models would be useless. However, in data science, it is assumed that the problem being worked on is always clear. It is not.
 ---
 

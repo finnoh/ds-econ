@@ -3,6 +3,7 @@ title: "In 2 minutes: Sharing data with git subtree"
 slug: in-2-minutes-sharing-data-with-git-subtree
 date: 2022-06-22T16:27:00.000Z
 date_updated: 2022-07-23T07:15:11.000Z
+draft: true
 excerpt: Git is of great use and provides version control to your research project, and makes collaboration easy. The often overlooked module git subtree allows you to publish a specific subfolder of your project, e.g. your data folder, to a separate GitHub repository.
 ---
 

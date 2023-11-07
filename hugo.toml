@@ -12,7 +12,7 @@ theme = "hugo-paper"
 title = "Paper"
 
 [params]
-  color = 'linen'
+  color = 'gray' # linen wheat gray light
   math = true                               # enable KaTeX math typesetting globally
   name = '👨🏼‍💻 Finn-Ole Höner'
   avatar = 'finn@ds-econ.com' 
